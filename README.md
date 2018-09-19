@@ -12,7 +12,7 @@ description: >-
 
 What are we doing, and why are we doing it.
 
-Realizing the potential application of blockchain and similar technologies can help Help people around the world discover legitimate and awesome blockchain projects that will shape the world for the better.
+Realizing the potential application of blockchain and similar technologies can help people around the world discover legitimate and awesome blockchain projects that will shape the world for the better.
 
 #### Problem
 

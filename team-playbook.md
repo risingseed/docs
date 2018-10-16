@@ -1,7 +1,3 @@
----
-description: This is a living document. This grows and evolves with us as we progress
----
-
 # Team Playbook
 
 #### Sprints
